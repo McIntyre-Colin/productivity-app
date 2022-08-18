@@ -1,0 +1,16 @@
+.Panel {
+    height: 80%;
+    max-width: 50%;
+    min-width: 30%;
+    border-style: solid;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+.Panel-title {
+   font-weight: bold;
+   font-size: 18pt;
+}
